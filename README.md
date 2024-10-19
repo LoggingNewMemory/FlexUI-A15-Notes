@@ -1,7 +1,6 @@
 ![A15 Flex UI 2 0 0](https://github.com/user-attachments/assets/8f48ccb9-381e-46e4-a5e3-ef7039112cc6)
 
 # FlexUI 2.0.0 A15 Notes
-A note for FlexUI A15 2.0.0
 ## A Note By: Kanagawa Yamada
 
 Instruction: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
