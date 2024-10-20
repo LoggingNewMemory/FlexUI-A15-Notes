@@ -28,7 +28,7 @@ What work:
 - Whatsapp without spoofing
 - Camera
 - High Refresh Rate? 
-- Fast charging (Up to 20 Watt)
+- Fast charging (Up to 35 Watt) (Unstable)
 - DTS audio can be toggled on audio effects (Pph Treble settings)
 - Force peak refresh rate (Enable Developer Option)
 
