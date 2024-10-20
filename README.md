@@ -35,4 +35,3 @@ What work:
 Known Issue
 - WZM Crashed
 - There is no way to bring backlight effect here (LH8n)
-- Wallpaper & Style crashed
