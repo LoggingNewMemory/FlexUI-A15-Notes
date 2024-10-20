@@ -30,6 +30,7 @@ What work:
 - High Refresh Rate? 
 - Fast charging (Up to 20 Watt)
 - DTS audio can be toggled on audio effects (Pph Treble settings)
+- Force peak refresh rate (Enable Developer Option)
 
 Known Issue
 - WZM Crashed
