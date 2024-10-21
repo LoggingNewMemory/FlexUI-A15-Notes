@@ -16,7 +16,6 @@ Download: [HERE](https://github.com/LoggingNewMemory/FlexUI-GSI) <br />
 
 Req Module:
 - [Brightness Fix](https://t.me/KanagawaLabAnnouncement/83)
-- [Camera From LH8n (Feel free to try)](https://t.me/KanagawaLabAnnouncement/80)
 - [100% Battery Autocut](https://github.com/LoggingNewMemory/Autocut-Charging-MYTH)
 
 What work:
